@@ -33,3 +33,4 @@
 - Connect to the Virtual Machine
 - Deploy your first application on an Azure VM
 - Virtual Machine ScaleSets for Autoscaling
+- Hypervisors and Types
